@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat:  no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.relogio {
+    border: 2px solid rgb(255, 255, 255);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.display {
+    background-color: #476e089d;
+    width: 400px;
+    height: 180px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 12px;
+    color: rgb(255, 255, 255);
+    font-size: 8rem;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+footer {
+    font-size: 1.5rem;
+    margin-top: 11px;
+    color: rgb(255, 255, 255);
+    font-family: "Baskervville SC", serif;
+}
