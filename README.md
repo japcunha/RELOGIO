@@ -1,2 +1,2 @@
 # Relogio
- Digital Clock with Javascript, HTML and CSS 
+ Digital Clock with Javascript, HTML and CSS.
