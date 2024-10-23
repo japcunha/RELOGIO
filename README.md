@@ -1,4 +1,4 @@
-# Relogio
+# Relogio/CLOCK
 
 Digital Clock with Javascript, HTML and CSS.
  
